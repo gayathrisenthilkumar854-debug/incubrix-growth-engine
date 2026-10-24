@@ -1,0 +1,41 @@
+EPISODE TITLE: Managing and Mastering in the Age of AI: CreatorOps, Repurposing, and The Death of Manual Video Editing
+HOST: Sarah Jenkins (Modern Media Podcast)
+GUEST: Kamraj Subramanian (Founder & CEO, IncuBrix)
+RECORDING DURATION: 46 minutes 12 seconds
+LOCATION: Remote Studio (Singapore - London)
+
+[00:00:05] SARAH:
+Welcome back to Modern Media. Today we are talking about the creator burnout crisis. Over 85% of solo creators and B2B podcasters quit within their first 6 months, not because they ran out of things to say, but because the operational overhead of editing, transcribing, formatting, and distributing across 4 platforms eats up 15 hours a week. My guest today is Kamraj Subramanian, Founder and CEO of IncuBrix. Kamraj, why are creators still spending all weekend scrubbing video timelines?
+
+[00:00:38] KAMRAJ:
+Sarah, thank you for having me. The dirty secret of the creator economy is that most people aren't acting like creators—they are acting like underpaid post-production technicians. When you record a 45-minute podcast, you have essentially done the creative thinking. But then you open Adobe Premiere, spend 4 hours finding 3 soundbites, another 3 hours fixing subtitle line breaks, 2 hours cropping to 9:16 vertical, and then another 3 hours drafting captions and scheduling. It's a 15-hour repurposing tax for 1 hour of recording. That is not sustainable.
+
+[00:01:45] SARAH:
+And what happens when they try to hire an agency?
+
+[00:01:50] KAMRAJ:
+The agency model for repurposing is completely broken. An agency charges a \$3,500 to \$5,000 monthly retainer, takes 5 business days to return a 30-second clip, and half the time the junior editor cuts off the punchline or misinterprets the technical context. What creators and lean B2B teams actually need is what we call 'CreatorOps'—treating content distribution like an engineering pipeline. You take 1 single high-conviction recording, pass it through an intelligent engine, and automatically compile it into 10 or 15 platform-native assets: vertical shorts with word-highlighted captions, multi-page LinkedIn document carousels, tactical X threads, and email summaries.
+
+[00:03:10] SARAH:
+Let's talk about video retention. Everyone is trying to crack YouTube Shorts and TikTok right now. Why do so many clips fall flat?
+
+[00:03:22] KAMRAJ:
+We audited over 1,000 short-form clips. 73% of viewers consume short-form video on mobile with the sound completely off. If your subtitles are slow, tiny, or placed in the platform 'dead zone' where the like, comment, and share buttons sit on the right side, the viewer swipes away in 1.8 seconds. Retention is an eye-tracking game. Your subtitles need to move in dynamic 2-to-3 word kinetic bursts with contrasting highlights. Furthermore, your first 2 seconds must challenge a belief or quantify a loss. If your hook says 'Hey guys, today I want to share a tip', you have already lost 80% of your audience.
+
+[00:05:15] SARAH:
+What about speech-to-text accuracy? A lot of people think all AI speech models are identical.
+
+[00:05:22] KAMRAJ:
+That is a massive misconception. If you are discussing general lifestyle topics, standard ASR is fine. But when you are a B2B creator discussing 'CreatorOps', 'LTV:CAC', or 'ASR latency', generic models introduce phonetic errors. When a mobile viewer sees a misspelled technical word, their reading flow stumbles for 200 milliseconds, and that cognitive friction causes an immediate swipe. You need domain-specific vocabulary whitelisting and sub-millisecond audio synchronization.
+
+[00:07:40] SARAH:
+How does a solo creator or a small team implement this starting next week?
+
+[00:07:48] KAMRAJ:
+It comes down to a simple 30-minute Monday morning routine. Record 45 minutes of substance on Monday. Feed the file into IncuBrix. In under 60 seconds, the engine generates 6 vertical clips pre-scored for hook strength, 2 LinkedIn carousels, 4 X threads, and a summary newsletter. Spend 15 minutes reviewing tone, calibrating voice guardrails, and click 'Schedule'. Your entire week is distributed across LinkedIn, YouTube, and X before 9:30 AM. Consistency is not about willpower; it is about architecture.
+
+[00:09:12] SARAH:
+Where can people test this workflow?
+
+[00:09:15] KAMRAJ:
+Head over to incubrix.com/start. We offer 3 free video repurpose credits with no credit card required so creators can see the transformation on their own files.

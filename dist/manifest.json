@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-10-24T07:27:27Z",
+  "total_assets_generated": 14,
+  "valid_assets_count": 14,
+  "failed_assets_count": 0,
+  "duplicate_count": 14,
+  "calendar_csv": "dist\\calendar.csv",
+  "run_metadata": {
+    "runtime_seconds": 0.01,
+    "cost_metrics": {
+      "model": "gpt-4o-mini",
+      "input_tokens": 900,
+      "output_tokens": 1614,
+      "total_tokens": 2514,
+      "input_cost_usd": 0.00014,
+      "output_cost_usd": 0.00097,
+      "total_cost_usd": 0.0011,
+      "cost_per_asset_usd": 8e-05
+    }
+  },
+  "assets": [
+    {
+      "id": "GEN-V01",
+      "title": "Why Manual Video Clipping Is a 15-Hour Tax",
+      "platform": "YouTube Shorts / Reels",
+      "format": "Short Video (45s, 9:16)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-V02",
+      "title": "The Silent Retention Secret for Short Video",
+      "platform": "YouTube Shorts / Reels",
+      "format": "Short Video (48s, 9:16)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-V03",
+      "title": "Why $3,000/mo Repurposing Agencies Are Obsolete",
+      "platform": "YouTube Shorts / Reels",
+      "format": "Short Video (50s, 9:16)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-V04",
+      "title": "Turn 1 Zoom Recording into 14 Weekly Assets",
+      "platform": "YouTube Shorts / Reels",
+      "format": "Short Video (42s, 9:16)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-C01",
+      "title": "The CreatorOps Framework: 1 Recording to 14 Assets",
+      "platform": "LinkedIn Carousel",
+      "format": "Document Carousel (6 Slides, 4:5)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-C02",
+      "title": "The Economic Breakdown of Manual Video Editing",
+      "platform": "LinkedIn Carousel",
+      "format": "Document Carousel (6 Slides, 4:5)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-P01",
+      "title": "Why the Single-Feature AI Video Clipper is Dying",
+      "platform": "LinkedIn",
+      "format": "Thought Leadership Post",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-P02",
+      "title": "The 15-Minute Monday Morning Content Routine",
+      "platform": "LinkedIn",
+      "format": "Thought Leadership Post",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-P03",
+      "title": "Speech-to-Text Accuracy and Cognitive Drop-off",
+      "platform": "LinkedIn",
+      "format": "Thought Leadership Post",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-X01",
+      "title": "The Post-Production Burnout Ratio",
+      "platform": "X (Twitter)",
+      "format": "Thread / Post",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-X02",
+      "title": "SOP Thread: 1 Episode to 14 Assets",
+      "platform": "X (Twitter)",
+      "format": "Thread / Post",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-X03",
+      "title": "The Creator Tool Bloat Tax",
+      "platform": "X (Twitter)",
+      "format": "Thread / Post",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-N01",
+      "title": "The CreatorOps Weekly: Mastering Distribution in the Age of AI",
+      "platform": "Email Newsletter / Substack",
+      "format": "Executive Newsletter (600 words)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    },
+    {
+      "id": "GEN-Q01",
+      "title": "Kamraj Subramanian: Consistency is Architecture",
+      "platform": "LinkedIn / X Graphic",
+      "format": "Visual Quote Card (1080x1080)",
+      "is_valid": true,
+      "issues": [
+        "Duplicate content detected from previous run"
+      ]
+    }
+  ]
+}

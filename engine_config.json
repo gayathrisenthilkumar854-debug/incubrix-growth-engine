@@ -1,0 +1,65 @@
+{
+  "brand_name": "IncuBrix",
+  "version": "2.4.0",
+  "brand_voice": {
+    "tone": "pragmatic, sharp, creator-empathetic, evidence-backed",
+    "reading_level": "Grade 8-9 (accessible, punchy, scannable)",
+    "banned_words": [
+      "revolutionary",
+      "game-changing",
+      "magic",
+      "synergy",
+      "unleash",
+      "effortless",
+      "miraculous",
+      "passive income",
+      "10x your output"
+    ],
+    "preferred_terms": [
+      "CreatorOps",
+      "operating leverage",
+      "repurposing throughput",
+      "retention curve",
+      "ASR accuracy",
+      "modular content",
+      "safe zones"
+    ]
+  },
+  "guardrails": {
+    "require_utm_links": true,
+    "require_ai_disclosure": true,
+    "max_hook_words": 18,
+    "max_video_duration_seconds": 60,
+    "min_assets_per_run": 10
+  },
+  "platforms": {
+    "youtube_shorts": {
+      "aspect_ratio": "9:16",
+      "max_duration_seconds": 60,
+      "target_metric": "Retention Rate > 65%"
+    },
+    "linkedin": {
+      "aspect_ratio": "4:5",
+      "max_carousel_slides": 8,
+      "target_metric": "Document Downloads & Dwell Time"
+    },
+    "x_twitter": {
+      "max_tweet_chars": 280,
+      "target_metric": "Retweets & UTM Link Clicks"
+    }
+  },
+  "cost_models": {
+    "gpt-4o-mini": {
+      "input_cost_per_million_tokens": 0.15,
+      "output_cost_per_million_tokens": 0.60
+    },
+    "claude-3-5-sonnet": {
+      "input_cost_per_million_tokens": 3.00,
+      "output_cost_per_million_tokens": 15.00
+    },
+    "local-llama-3": {
+      "input_cost_per_million_tokens": 0.00,
+      "output_cost_per_million_tokens": 0.00
+    }
+  }
+}
